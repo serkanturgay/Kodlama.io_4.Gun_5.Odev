@@ -14,7 +14,7 @@ namespace Kodlama.io_4.Gun_5.Odev
             students.Add(898, "Kemal");
             students.Add(343, "Serkan");
 
-            Console.WriteLine(students);
+            students.List();
 
 
         }
