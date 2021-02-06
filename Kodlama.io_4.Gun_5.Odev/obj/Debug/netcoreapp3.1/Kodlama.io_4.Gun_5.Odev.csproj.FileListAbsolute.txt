@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\bin\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.exe
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\bin\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\bin\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\bin\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\bin\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.dll
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\bin\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.pdb
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.dll
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.pdb
+C:\Users\hakan\source\repos\Kodlama.io_4.Gun_5.Odev\Kodlama.io_4.Gun_5.Odev\obj\Debug\netcoreapp3.1\Kodlama.io_4.Gun_5.Odev.genruntimeconfig.cache

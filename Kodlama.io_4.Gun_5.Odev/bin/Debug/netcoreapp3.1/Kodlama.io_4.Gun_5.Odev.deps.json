@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kodlama.io_4.Gun_5.Odev/1.0.0": {
+        "runtime": {
+          "Kodlama.io_4.Gun_5.Odev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kodlama.io_4.Gun_5.Odev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
